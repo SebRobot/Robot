@@ -33,42 +33,42 @@
 		<link>
 			<name>lib/Core</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/core/shared/Core</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/core/shared/Core</locationURI>
 		</link>
 		<link>
 			<name>lib/GeometryTools</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/tools/libraries/GeometryTools</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/tools/libraries/GeometryTools</locationURI>
 		</link>
 		<link>
 			<name>lib/Millis</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/core/linux/libraries/Millis</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/core/linux/libraries/Millis</locationURI>
 		</link>
 		<link>
 			<name>lib/TimeTools</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/tools/libraries/TimeTools</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/tools/libraries/TimeTools</locationURI>
 		</link>
 		<link>
 			<name>lib/Timeout</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/tools/libraries/Timeout</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/tools/libraries/Timeout</locationURI>
 		</link>
 		<link>
 			<name>lib/botNet</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/communication/botNet</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/communication/botNet</locationURI>
 		</link>
 		<link>
 			<name>lib/network_config</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/network_config</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/network_config</locationURI>
 		</link>
 		<link>
 			<name>lib/network_tools</name>
 			<type>2</type>
-			<location>/home/seb/RobotENAC/static/communication/network_tools</location>
+			<locationURI>PARENT-1-PROJECT_LOC/externals/club_robot_enac/static/communication/network_tools</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
